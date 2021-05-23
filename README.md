@@ -1,6 +1,6 @@
-# pallet-contracts test site
+# noble-contracts test site
 
-This repo hosts tests for `pallet-contracts`.
+This repo hosts tests for `noble-contracts`.
 
 It uses git submodules for some tests. To checkout the repository including the linked submodules, run the following command to clone it:
 
